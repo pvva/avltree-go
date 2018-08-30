@@ -1,0 +1,6 @@
+# vim bak files
+.*~
+
+# IntelliJ
+.idea
+*.iml
